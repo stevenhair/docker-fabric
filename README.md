@@ -1,6 +1,6 @@
 # docker-fabric
 
-[![dockeri.co](http://dockeri.co/image/01hair/fabric)](https://hub.docker.com/r/01hair/fabric)
+[![dockeri.co](http://dockeri.co/image/shair/fabric)](https://hub.docker.com/r/shair/fabric)
 
 [![GitHub issues](https://img.shields.io/github/issues/stevenhair/docker-fabric.svg "GitHub issues")](https://github.com/stevenhair/docker-fabric/issues)
 [![GitHub stars](https://img.shields.io/github/stars/stevenhair/docker-fabric.svg "GitHub stars")](https://github.com/stevenhair/docker-fabric/stargazers)
